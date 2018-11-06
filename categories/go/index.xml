@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Alexandros Panagiotou</title>
+    <link>https://apanagiotou.com/categories/go/</link>
+    <description>Recent content in Go on Alexandros Panagiotou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Aug 2018 15:19:40 +0300</lastBuildDate>
+    
+	<atom:link href="https://apanagiotou.com/categories/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>go-kafka-to-s3. A Go Kafka consumer and S3 uploader</title>
+      <link>https://apanagiotou.com/posts/go-kafka-to-s3/</link>
+      <pubDate>Wed, 08 Aug 2018 15:19:40 +0300</pubDate>
+      
+      <guid>https://apanagiotou.com/posts/go-kafka-to-s3/</guid>
+      <description>go-kafka-to-s3 go-kafka-to-s3 is a kafka consumer written in Go. Reads messages from a topic, gathers them in batches (files) of a pre-defined size and stores them in S3. It&amp;rsquo;s useful if you want to have your data in a persistent storage for later process.
+Getting Started These instructions will get you a copy of the project up and running.
+Installing A step by step series of examples that tell you how to get a development env running</description>
+    </item>
+    
+  </channel>
+</rss>

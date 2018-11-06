@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandros Panagiotou</title>
+    <link>https://apanagiotou.com/</link>
+    <description>Recent content on Alexandros Panagiotou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Aug 2018 15:19:40 +0300</lastBuildDate>
+    
+	<atom:link href="https://apanagiotou.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>go-kafka-to-s3. A Go Kafka consumer and S3 uploader</title>
+      <link>https://apanagiotou.com/posts/go-kafka-to-s3/</link>
+      <pubDate>Wed, 08 Aug 2018 15:19:40 +0300</pubDate>
+      
+      <guid>https://apanagiotou.com/posts/go-kafka-to-s3/</guid>
+      <description>go-kafka-to-s3 go-kafka-to-s3 is a kafka consumer written in Go. Reads messages from a topic, gathers them in batches (files) of a pre-defined size and stores them in S3. It&amp;rsquo;s useful if you want to have your data in a persistent storage for later process.
+Getting Started These instructions will get you a copy of the project up and running.
+Installing A step by step series of examples that tell you how to get a development env running</description>
+    </item>
+    
+    <item>
+      <title>AWS - Beat Case Study</title>
+      <link>https://apanagiotou.com/posts/aws-beat-case-study/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://apanagiotou.com/posts/aws-beat-case-study/</guid>
+      <description>BEAT Case Study</description>
+    </item>
+    
+    <item>
+      <title>BSc Thesis: Cloud Computing and OpenStack: Overview and Implementation (Greek)</title>
+      <link>https://apanagiotou.com/posts/openstack-thesis/</link>
+      <pubDate>Mon, 12 Nov 2012 13:10:15 +0300</pubDate>
+      
+      <guid>https://apanagiotou.com/posts/openstack-thesis/</guid>
+      <description>BSc Thesis: Cloud Computing and OpenStack: Overview and Implementation (Greek)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://apanagiotou.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apanagiotou.com/about/</guid>
+      <description>Alexandros Panagiotou An ambitious Systems engineer with experience designing and managing large and complex systems. Strong in AWS, CI/CD pipelines, app orchestration, database administration, and automation, with a background and a keen interest in leading and hiring great engineers. A continuous learner and a strong advocate of DevOps best practices and culture.
+Experience DevOps Lead at BEAT, Athens, Greece • Jan 2018-Now
+A fast-growing ride-hailing company with millions of users and strong presence in four countries.</description>
+    </item>
+    
+  </channel>
+</rss>
