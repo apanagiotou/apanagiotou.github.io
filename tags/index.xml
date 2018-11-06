@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alexandros Panagiotou</title>
-    <link>https://apanagiotou.github.io/tags/</link>
+    <link>https://apanagiotou.com/tags/</link>
     <description>Recent content in Tags on Alexandros Panagiotou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://apanagiotou.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://apanagiotou.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
