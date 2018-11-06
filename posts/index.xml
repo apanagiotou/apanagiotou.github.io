@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Alexandros Panagiotou</title>
-    <link>https://apanagiotou.com/posts/</link>
+    <link>https://apanagiotou.github.io/posts/</link>
     <description>Recent content in Posts on Alexandros Panagiotou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 Aug 2018 15:19:40 +0300</lastBuildDate>
     
-	<atom:link href="https://apanagiotou.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://apanagiotou.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>go-kafka-to-s3. A Go Kafka consumer and S3 uploader</title>
-      <link>https://apanagiotou.com/posts/go-kafka-to-s3/</link>
+      <link>https://apanagiotou.github.io/posts/go-kafka-to-s3/</link>
       <pubDate>Wed, 08 Aug 2018 15:19:40 +0300</pubDate>
       
-      <guid>https://apanagiotou.com/posts/go-kafka-to-s3/</guid>
+      <guid>https://apanagiotou.github.io/posts/go-kafka-to-s3/</guid>
       <description>go-kafka-to-s3 go-kafka-to-s3 is a kafka consumer written in Go. Reads messages from a topic, gathers them in batches (files) of a pre-defined size and stores them in S3. It&amp;rsquo;s useful if you want to have your data in a persistent storage for later process.
 Getting Started These instructions will get you a copy of the project up and running.
 Installing A step by step series of examples that tell you how to get a development env running</description>
@@ -24,19 +24,19 @@ Installing A step by step series of examples that tell you how to get a developm
     
     <item>
       <title>AWS - Beat Case Study</title>
-      <link>https://apanagiotou.com/posts/aws-beat-case-study/</link>
+      <link>https://apanagiotou.github.io/posts/aws-beat-case-study/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://apanagiotou.com/posts/aws-beat-case-study/</guid>
+      <guid>https://apanagiotou.github.io/posts/aws-beat-case-study/</guid>
       <description>BEAT Case Study</description>
     </item>
     
     <item>
       <title>BSc Thesis: Cloud Computing and OpenStack: Overview and Implementation (Greek)</title>
-      <link>https://apanagiotou.com/posts/openstack-thesis/</link>
+      <link>https://apanagiotou.github.io/posts/openstack-thesis/</link>
       <pubDate>Mon, 12 Nov 2012 13:10:15 +0300</pubDate>
       
-      <guid>https://apanagiotou.com/posts/openstack-thesis/</guid>
+      <guid>https://apanagiotou.github.io/posts/openstack-thesis/</guid>
       <description>BSc Thesis: Cloud Computing and OpenStack: Overview and Implementation (Greek)</description>
     </item>
     
