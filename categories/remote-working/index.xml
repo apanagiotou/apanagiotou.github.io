@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote Working on Alexandros Panagiotou</title>
+    <link>https://apanagiotou.com/categories/remote-working/</link>
+    <description>Recent content in Remote Working on Alexandros Panagiotou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://apanagiotou.com/categories/remote-working/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Grow a Remote Team Culture</title>
+      <link>https://apanagiotou.com/posts/how-to-grow-a-remote-culture/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://apanagiotou.com/posts/how-to-grow-a-remote-culture/</guid>
+      <description>How to Grow a Remote Team Culture</description>
+    </item>
+    
+  </channel>
+</rss>

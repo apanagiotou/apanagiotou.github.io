@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Alexandros Panagiotou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Aug 2018 15:19:40 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://apanagiotou.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Grow a Remote Team Culture</title>
+      <link>https://apanagiotou.com/posts/how-to-grow-a-remote-culture/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://apanagiotou.com/posts/how-to-grow-a-remote-culture/</guid>
+      <description>How to Grow a Remote Team Culture</description>
+    </item>
     
     <item>
       <title>go-kafka-to-s3. A Go Kafka consumer and S3 uploader</title>
