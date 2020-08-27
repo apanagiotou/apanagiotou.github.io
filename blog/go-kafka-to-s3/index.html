@@ -54,9 +54,13 @@ Installing A step by step series of examples that tell you how to get a developm
     
 
     
-
+      
+        
+        
+        <link rel="stylesheet" href="https://apanagiotou.com/css/coder-dark.min.717236c74e0a5208ef73964a9f44c6b443b689a95b270d8b2a40d0c012460dac.css" integrity="sha256-cXI2x04KUgjvc5ZKn0TGtEO2ialbJw2LKkDQwBJGDaw=" crossorigin="anonymous" media="screen" />
+      
     
-      <link rel="stylesheet" href="https://apanagiotou.com/css/custom.css" />
+
     
 
     
@@ -69,7 +73,9 @@ Installing A step by step series of examples that tell you how to get a developm
   
   
   
-  <body class="colorscheme-light"
+    
+  
+  <body class="colorscheme-auto"
         onload=""
   >
     <main class="wrapper">
@@ -119,11 +125,11 @@ Installing A step by step series of examples that tell you how to get a developm
 <h3 id="installing">Installing</h3>
 <p>A step by step series of examples that tell you how to get a development env running</p>
 <p>First build the docker image</p>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">git clone https://github.com/apanagiotou/go-kafka-to-s3
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">git clone https://github.com/apanagiotou/go-kafka-to-s3
 cd go-kafka-to-s3
 docker build -t go-kafka-to-s3 .
 </code></pre></div><p>The run the docker container. You need (at least) one kafka broker, an AWS key and secret and, an S3 bucket</p>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">docker run --rm --name go-kafka-to-s3 -it \
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">docker run --rm --name go-kafka-to-s3 -it \
     -e BOOTSTRAP_SERVERS=ip:port \
     -e KAFKA_TOPIC=topic \
     -e S3_BUCKET=your-bucket-name \
@@ -138,7 +144,7 @@ docker build -t go-kafka-to-s3 .
 <li>FILE_SIZE_THRESHOLD_MB=10</li>
 </ul>
 <p>Example:</p>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">docker run --rm --name go-kafka-to-s3 -it \
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">docker run --rm --name go-kafka-to-s3 -it \
     -e BOOTSTRAP_SERVERS=10.1.0.1:9092 \
     -e KAFKA_TOPIC=bookings \
     -e S3_BUCKET=apanagiotou-bookings \
@@ -148,7 +154,7 @@ docker build -t go-kafka-to-s3 .
     -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY \
     go-kafka-to-s3
 </code></pre></div><h2 id="running-the-tests">Running the tests</h2>
-<div class="highlight"><pre style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">go test ./...
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">go test ./...
 </code></pre></div><h2 id="authors">Authors</h2>
 <ul>
 <li><strong>Alexandros Panagiotou</strong> - <em><a href="https://apanagiotou.com">apanagiotou.com</a></em> / Twitter: <em><a href="https://twitter.com/alexapanagiotou">@alexapanagiotou</a></em></li>
