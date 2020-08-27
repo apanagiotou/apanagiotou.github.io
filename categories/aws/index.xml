@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aws on Alexandros Panagiotou</title>
+    <title>AWS on This is Alexandros</title>
     <link>https://apanagiotou.com/categories/aws/</link>
-    <description>Recent content in Aws on Alexandros Panagiotou</description>
+    <description>Recent content in AWS on This is Alexandros</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>AWS - Beat Case Study</title>
-      <link>https://apanagiotou.com/posts/aws-beat-case-study/</link>
+      <link>https://apanagiotou.com/blog/aws-beat-case-study/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://apanagiotou.com/posts/aws-beat-case-study/</guid>
+      <guid>https://apanagiotou.com/blog/aws-beat-case-study/</guid>
       <description>BEAT Case Study</description>
     </item>
     
