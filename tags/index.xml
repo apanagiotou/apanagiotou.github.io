@@ -5,10 +5,6 @@
     <link>https://apanagiotou.com/tags/</link>
     <description>Recent content in Tags on This is Alexandros</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://apanagiotou.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://apanagiotou.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
